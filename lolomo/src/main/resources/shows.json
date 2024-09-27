@@ -1,0 +1,600 @@
+[
+  {
+    "showId": 1,
+    "title": "Stranger Things",
+    "categories": [
+      "Sci-Fi",
+      "Thriller",
+      "Horror"
+    ],
+    "description": "A group of young friends in a small town uncover supernatural mysteries after the disappearance of a boy.",
+    "type": "SERIES",
+    "numberOfEpisodes": 34,
+    "length": null
+  },
+  {
+    "showId": 2,
+    "title": "The Witcher",
+    "categories": [
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys through a world of perilous dangers and dark magic.",
+    "type": "SERIES",
+    "numberOfEpisodes": 24,
+    "length": null
+  },
+  {
+    "showId": 3,
+    "title": "Money Heist",
+    "categories": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "description": "A group of robbers led by 'The Professor' take hostages in the Royal Mint of Spain, planning the biggest heist in history.",
+    "type": "SERIES",
+    "numberOfEpisodes": 41,
+    "length": null
+  },
+  {
+    "showId": 4,
+    "title": "The Irishman",
+    "categories": [
+      "Drama",
+      "Crime",
+      "History"
+    ],
+    "description": "A mob hitman recalls his involvement with the infamous disappearance of labor leader Jimmy Hoffa.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "3h 29m"
+  },
+  {
+    "showId": 5,
+    "title": "The Crown",
+    "categories": [
+      "Drama",
+      "History",
+      "Biography"
+    ],
+    "description": "A dramatized history of the reign of Queen Elizabeth II and the political events that shaped the latter half of the 20th century.",
+    "type": "SERIES",
+    "numberOfEpisodes": 60,
+    "length": null
+  },
+  {
+    "showId": 6,
+    "title": "Breaking Bad",
+    "categories": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "description": "A high school chemistry teacher turned methamphetamine kingpin battles the criminal underworld while keeping his double life hidden from his family.",
+    "type": "SERIES",
+    "numberOfEpisodes": 62,
+    "length": null
+  },
+  {
+    "showId": 7,
+    "title": "BoJack Horseman",
+    "categories": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "description": "A washed-up actor, who happens to be a horse, struggles with addiction, self-doubt, and relationships in a satirical take on Hollywood.",
+    "type": "SERIES",
+    "numberOfEpisodes": 77,
+    "length": null
+  },
+  {
+    "showId": 8,
+    "title": "Narcos",
+    "categories": [
+      "Crime",
+      "Drama",
+      "Biography"
+    ],
+    "description": "The rise and fall of Pablo Escobar and the Medellín Cartel, and the efforts of law enforcement to bring them down.",
+    "type": "SERIES",
+    "numberOfEpisodes": 30,
+    "length": null
+  },
+  {
+    "showId": 9,
+    "title": "Bird Box",
+    "categories": [
+      "Horror",
+      "Thriller",
+      "Sci-Fi"
+    ],
+    "description": "In a post-apocalyptic world, a mother and her two children make a desperate bid to reach safety while blindfolded to avoid a deadly unseen force.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "2h 4m"
+  },
+  {
+    "showId": 10,
+    "title": "Black Mirror",
+    "categories": [
+      "Sci-Fi",
+      "Thriller",
+      "Drama"
+    ],
+    "description": "An anthology SERIES exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+    "type": "SERIES",
+    "numberOfEpisodes": 22,
+    "length": null
+  },
+  {
+    "showId": 11,
+    "title": "Sex Education",
+    "categories": [
+      "Comedy",
+      "Drama",
+      "Teen"
+    ],
+    "description": "A socially awkward teenager starts an underground sex therapy clinic at his high school, thanks to his mother, a professional therapist.",
+    "type": "SERIES",
+    "numberOfEpisodes": 32,
+    "length": null
+  },
+  {
+    "showId": 12,
+    "title": "Bridgerton",
+    "categories": [
+      "Drama",
+      "Romance",
+      "Period"
+    ],
+    "description": "In Regency-era London, eight close-knit siblings of the powerful Bridgerton family attempt to find love.",
+    "type": "SERIES",
+    "numberOfEpisodes": 16,
+    "length": null
+  },
+  {
+    "showId": 13,
+    "title": "The Queen's Gambit",
+    "categories": [
+      "Drama",
+      "Sport",
+      "History"
+    ],
+    "description": "Orphaned chess prodigy Beth Harmon struggles with addiction as she rises to fame in the male-dominated world of competitive chess.",
+    "type": "SERIES",
+    "numberOfEpisodes": 7,
+    "length": null
+  },
+  {
+    "showId": 14,
+    "title": "Enola Holmes",
+    "categories": [
+      "Adventure",
+      "Mystery",
+      "Drama"
+    ],
+    "description": "When her mother disappears, the youngest sibling of Sherlock Holmes embarks on a journey to find her and solve a conspiracy.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "2h 3m"
+  },
+  {
+    "showId": 15,
+    "title": "Umbrella Academy",
+    "categories": [
+      "Action",
+      "Sci-Fi",
+      "Comedy"
+    ],
+    "description": "A dysfunctional family of adopted superhero siblings reunite to solve the mystery of their father's death and prevent the apocalypse.",
+    "type": "SERIES",
+    "numberOfEpisodes": 30,
+    "length": null
+  },
+  {
+    "showId": 16,
+    "title": "The Haunting of Hill House",
+    "categories": [
+      "Horror",
+      "Mystery",
+      "Drama"
+    ],
+    "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them away.",
+    "type": "SERIES",
+    "numberOfEpisodes": 10,
+    "length": null
+  },
+  {
+    "showId": 17,
+    "title": "13 Reasons Why",
+    "categories": [
+      "Drama",
+      "Mystery",
+      "Teen"
+    ],
+    "description": "A high school student uncovers the reasons behind his friend's decision to take her own life through a SERIES of cassette tapes she left behind.",
+    "type": "SERIES",
+    "numberOfEpisodes": 49,
+    "length": null
+  },
+  {
+    "showId": 18,
+    "title": "Extraction",
+    "categories": [
+      "Action",
+      "Thriller",
+      "Drama"
+    ],
+    "description": "A black-market mercenary embarks on the most dangerous extraction of his career when he's sent to rescue the kidnapped son of an international crime lord.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "1h 57m"
+  },
+  {
+    "showId": 19,
+    "title": "Ozark",
+    "categories": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A financial planner relocates his family to the Ozarks to launder money for a Mexican cartel, only to become entangled in the criminal underworld.",
+    "type": "SERIES",
+    "numberOfEpisodes": 44,
+    "length": null
+  },
+  {
+    "showId": 20,
+    "title": "The Kissing Booth",
+    "categories": [
+      "Romance",
+      "Comedy",
+      "Teen"
+    ],
+    "description": "A high school girl finds herself in a complicated situation when she falls for her best friend's older brother.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "1h 45m"
+  },
+  {
+    "showId": 21,
+    "title": "Squid Game",
+    "categories": [
+      "Thriller",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly.",
+    "type": "SERIES",
+    "numberOfEpisodes": 9,
+    "length": null
+  },
+  {
+    "showId": 22,
+    "title": "Cobra Kai",
+    "categories": [
+      "Action",
+      "Drama",
+      "Comedy"
+    ],
+    "description": "Decades after the original 'Karate Kid' MOVIEs, Johnny Lawrence and Daniel LaRusso reignite their rivalry in this martial arts dramedy.",
+    "type": "SERIES",
+    "numberOfEpisodes": 50,
+    "length": null
+  },
+  {
+    "showId": 23,
+    "title": "Lucifer",
+    "categories": [
+      "Fantasy",
+      "Drama",
+      "Crime"
+    ],
+    "description": "Lucifer Morningstar, the Devil, abandons Hell and retires to Los Angeles, where he teams up with LAPD detective Chloe Decker to solve crimes.",
+    "type": "SERIES",
+    "numberOfEpisodes": 93,
+    "length": null
+  },
+  {
+    "showId": 24,
+    "title": "Army of the Dead",
+    "categories": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "description": "After a zombie outbreak in Las Vegas, a group of mercenaries ventures into the quarantine zone to pull off the greatest heist ever attempted.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "2h 28m"
+  },
+  {
+    "showId": 25,
+    "title": "Elite",
+    "categories": [
+      "Drama",
+      "Thriller",
+      "Teen"
+    ],
+    "description": "When three working-class teens enroll in an exclusive private school in Spain, the clash between them and the wealthy students leads to murder.",
+    "type": "SERIES",
+    "numberOfEpisodes": 48,
+    "length": null
+  },
+  {
+    "showId": 26,
+    "title": "The Old Guard",
+    "categories": [
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "description": "A group of immortal warriors who have secretly protected humanity for centuries must now fight to keep their identities hidden.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "2h 5m"
+  },
+  {
+    "showId": 27,
+    "title": "Ratched",
+    "categories": [
+      "Drama",
+      "Thriller",
+      "Psychological"
+    ],
+    "description": "A suspenseful drama about the origin of Nurse Ratched, the notorious villain from 'One Flew Over the Cuckoo's Nest'.",
+    "type": "SERIES",
+    "numberOfEpisodes": 8,
+    "length": null
+  },
+  {
+    "showId": 28,
+    "title": "The Social Dilemma",
+    "categories": [
+      "Documentary",
+      "Technology",
+      "Society"
+    ],
+    "description": "Exploring the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "1h 34m"
+  },
+  {
+    "showId": 29,
+    "title": "Russian Doll",
+    "categories": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "description": "Nadia keeps dying and reliving her 36th birthday party in a surreal time loop in this existential comedy-drama.",
+    "type": "SERIES",
+    "numberOfEpisodes": 15,
+    "length": null
+  },
+  {
+    "showId": 30,
+    "title": "Locke & Key",
+    "categories": [
+      "Fantasy",
+      "Drama",
+      "Horror"
+    ],
+    "description": "Three siblings move into their ancestral home and discover magical keys that unlock powers and mysteries.",
+    "type": "SERIES",
+    "numberOfEpisodes": 28,
+    "length": null
+  },
+  {
+    "showId": 31,
+    "title": "Murder Mystery",
+    "categories": [
+      "Comedy",
+      "Mystery",
+      "Action"
+    ],
+    "description": "A New York cop and his wife go on a European vacation to reinvigorate their marriage, but end up being framed for the murder of an elderly billionaire.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "1h 37m"
+  },
+  {
+    "showId": 32,
+    "title": "The Serpent",
+    "categories": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "The true story of how conman and murderer Charles Sobhraj was caught and brought to justice in the 1970s.",
+    "type": "SERIES",
+    "numberOfEpisodes": 8,
+    "length": null
+  },
+  {
+    "showId": 33,
+    "title": "Atypical",
+    "categories": [
+      "Drama",
+      "Comedy",
+      "Teen"
+    ],
+    "description": "A coming-of-age story of an autistic teenager who is looking for love and independence.",
+    "type": "SERIES",
+    "numberOfEpisodes": 38,
+    "length": null
+  },
+  {
+    "showId": 34,
+    "title": "To All the Boys I've Loved Before",
+    "categories": [
+      "Romance",
+      "Comedy",
+      "Teen"
+    ],
+    "description": "A teenage girl's secret love letters are exposed and her love life is thrown into chaos.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "1h 39m"
+  },
+  {
+    "showId": 35,
+    "title": "The Umbrella Academy",
+    "categories": [
+      "Action",
+      "Sci-Fi",
+      "Drama"
+    ],
+    "description": "A dysfunctional family of adopted superhero siblings reunite to solve the mystery of their father’s death and prevent the apocalypse.",
+    "type": "SERIES",
+    "numberOfEpisodes": 30,
+    "length": null
+  },
+  {
+    "showId": 36,
+    "title": "Project Power",
+    "categories": [
+      "Action",
+      "Sci-Fi",
+      "Crime"
+    ],
+    "description": "In near-future New Orleans, a mysterious pill grants users temporary superpowers, leading a teenage dealer and a cop to team up with an ex-soldier to stop its creators.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "1h 53m"
+  },
+  {
+    "showId": 37,
+    "title": "You",
+    "categories": [
+      "Thriller",
+      "Drama",
+      "Crime"
+    ],
+    "description": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he's transfixed by.",
+    "type": "SERIES",
+    "numberOfEpisodes": 40,
+    "length": null
+  },
+  {
+    "showId": 38,
+    "title": "Sweet Tooth",
+    "categories": [
+      "Fantasy",
+      "Drama",
+      "Adventure"
+    ],
+    "description": "In a post-apocalyptic world, a hybrid deer-boy and a wandering loner embark on an extraordinary adventure.",
+    "type": "SERIES",
+    "numberOfEpisodes": 16,
+    "length": null
+  },
+  {
+    "showId": 39,
+    "title": "The Trial of the Chicago 7",
+    "categories": [
+      "Drama",
+      "Historical",
+      "Legal"
+    ],
+    "description": "The story of seven people on trial stemming from various charges surrounding the uprising at the 1968 Democratic National Convention in Chicago.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "2h 10m"
+  },
+  {
+    "showId": 40,
+    "title": "The Midnight Sky",
+    "categories": [
+      "Sci-Fi",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A lone scientist in the Arctic races to contact a crew of astronauts returning to a post-apocalyptic Earth.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "1h 58m"
+  },
+  {
+    "showId": 41,
+    "title": "The Politician",
+    "categories": [
+      "Comedy",
+      "Drama",
+      "Political"
+    ],
+    "description": "A wealthy student has known since age seven that he’s going to be president of the United States. But first he has to navigate the most treacherous political landscape of all: high school.",
+    "type": "SERIES",
+    "numberOfEpisodes": 15,
+    "length": null
+  },
+  {
+    "showId": 42,
+    "title": "The Dig",
+    "categories": [
+      "Drama",
+      "Historical",
+      "Biography"
+    ],
+    "description": "On the eve of World War II, a British widow and an amateur archaeologist embark on the excavation of Sutton Hoo in Suffolk, England.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "1h 52m"
+  },
+  {
+    "showId": 43,
+    "title": "The Sinner",
+    "categories": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "Detective Harry Ambrose investigates a seemingly ordinary person who commits a shocking crime, uncovering hidden motives.",
+    "type": "SERIES",
+    "numberOfEpisodes": 32,
+    "length": null
+  },
+  {
+    "showId": 44,
+    "title": "Outer Banks",
+    "categories": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "description": "A group of teenagers from the wrong side of the tracks stumble upon a treasure map that unearths a long-buried secret.",
+    "type": "SERIES",
+    "numberOfEpisodes": 30,
+    "length": null
+  },
+  {
+    "showId": 45,
+    "title": "The Half of It",
+    "categories": [
+      "Romance",
+      "Comedy",
+      "Teen"
+    ],
+    "description": "A shy, straight-A student helps a school jock woo the girl they both secretly love in this modern-day retelling of 'Cyrano de Bergerac.'",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "1h 45m"
+  },
+  {
+    "showId": 46,
+    "title": "Enola Holmes 2",
+    "categories": [
+      "Adventure",
+      "Mystery",
+      "Drama"
+    ],
+    "description": "The adventures of Sherlock Holmes’ sister continue as Enola embarks on a new mystery.",
+    "type": "MOVIE",
+    "numberOfEpisodes": null,
+    "length": "2h 3m"
+  }
+]

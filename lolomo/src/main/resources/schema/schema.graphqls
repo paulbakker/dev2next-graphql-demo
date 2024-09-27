@@ -1,0 +1,26 @@
+type Query {
+    lolomo: [ShowCategory]
+    search(filter: SearchFilter): [Show]
+}
+
+input SearchFilter {
+    title: String
+}
+
+type ShowCategory {
+    name: String
+    shows: [Show]
+}
+
+type Show @key(fields: "showId"){
+    showId: Int
+    title: String
+    categories: [String]
+    description: String
+    type: ShowType
+    numberOfEpisodes: Int
+    length: String
+    artworkUrl: String
+}
+
+enum ShowType { SERIES, MOVIE}

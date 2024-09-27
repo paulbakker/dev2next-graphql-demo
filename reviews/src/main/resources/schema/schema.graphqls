@@ -1,0 +1,14 @@
+type Query {
+    recentReviews: [Review]
+}
+
+type Review {
+    score: Int
+    text: String
+    show: Show
+}
+
+type Show @extends @key(fields: "showId"){
+    showId: Int @external
+    reviews: [Review]
+}

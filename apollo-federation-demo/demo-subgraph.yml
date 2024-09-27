@@ -1,0 +1,7 @@
+subgraphs:
+    lolomo:
+        schema:
+            subgraph_url: http://localhost:8080/graphql
+    reviews:
+        schema:
+            subgraph_url: http://localhost:8181/graphql
