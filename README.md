@@ -9,3 +9,5 @@ To start the federated system.
 1. Start `lolomo` from Intellij or `./gradlew bootRun`
 2. Start `reviews` from Intellij or `./gradlew bootRun`
 3. Start the gateway from the `apollo-federation-demo` directory with `rover dev --supergraph-config ./demo-subgraph.yml`
+
+Slides: https://docs.google.com/presentation/d/1cCvtsXJMW_JNagmxDGciNn06E-RIOf-IMRAH1s1KNSc
